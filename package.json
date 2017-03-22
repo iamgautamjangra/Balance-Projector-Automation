@@ -1,0 +1,26 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "description": "protractor conf.js --parameters.login.email=example@gmail.com \r --parameters.login.password=foobar",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^3.1.1",
+    "protractor-jasmine2-html-reporter": "^0.0.7",
+    "protractor-html-screenshot-reporter": "^0.0.21",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgautamjangra/samplerepo.git"
+  },
+  "author": "Gautam Jangra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgautamjangra/samplerepo/issues"
+  },
+  "homepage": "https://github.com/iamgautamjangra/samplerepo#readme"
+}
